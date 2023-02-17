@@ -19,6 +19,7 @@ How many employees does google dismiss per year?
 # Organization Structure
 
 [Google Career](https://careers.google.com/teams/)
+
 Google is a large organization with many departments and teams across various functions. It's difficult to give an exact number of departments since the organizational structure of Google can change over time. However, some of the major departments or business units at Google include:
 
 Search and Assistant
@@ -35,71 +36,74 @@ This is not an exhaustive list, and the organizational structure of Google is co
 
 ## Engineering
 
-Software Engineer
+[Engineering & Technology](https://careers.google.com/teams/engineering-technology/?hl=en_US)
+
+
+#### Software Engineer
 Your work is at the core of everything we build. Develop massive, complex software systems that scale globally.
 
-Product Manager
+#### Product Manager
 Architect the future of our products by bridging engineering and business as you manage a product's full lifecycle, from strategic planning to development and launch.
 
-Sales Engineer
+#### Sales Engineer
 Be a trusted technical advisor to customers as you guide them through their journey to the cloud. Shape the future of our products by advocating for your customers' requirements.
 
-Technical Program Manager
+#### Technical Program Manager
 Rely on your strong technical experience to oversee all the essential activities of a particular program, including planning, communications, and execution.
 
-Technical Solutions
+#### Technical Solutions
 Manage vital business relationships and troubleshoot complex engineering problems in this hybrid Tech/Business role.
 
-Electrical Engineer
+#### Electrical Engineer
 Design, develop, and maintain some of the world’s biggest and most complex electrical control systems and equipment.
 
-Test Engineer
+#### Test Engineer
 Develop environments and infrastructure for testing the complex software and/or hardware systems deployed across Google.
 
-Network Engineer
+#### Network Engineer
 Design and implement enterprise and carrier network systems and architecture vital to Google's operations.
 
-Sourcing/Supply Chain
+#### Sourcing/Supply Chain
 Own relationships with Google's strategic internal and external partners in order to manage Google's inventory and procurement needs.
 
-Systems Integrator
+#### Systems Integrator
 Integrate systems :)
 
-Data Center Technician
+#### Data Center Technician
 Install, test, and maintain hardware and systems software for Google’s data centers.
 
-Corporate Operations/Audio Video Engineer
+#### Corporate Operations/Audio Video Engineer
 Bolster technical, front-line user support for all of our internal tools and communication technologies.
 
-Developer Relations
+#### Developer Relations
 Use your engineering background to bridge the technical community and Google, creating programs and advocating for developers who use Google’s platforms.
 
-Mechanical Engineer
+#### Mechanical Engineer
 Design and analyze products and prototypes in a manufacturing and product-oriented development environment.
 
-Security/Privacy Engineer
+#### Security/Privacy Engineer
 Hack Google... if you can. Work on finding security flaws, building secure infrastructure, or ensuring data privacy as part of a diverse engineering team.
 
-Technical Writer
+#### Technical Writer
 Document complexity with elegance and simplicity.
 
-Data Scientist
+#### Data Scientist
 Analyze data to build solutions and make recommendations that improve our businesses and products.
 
-Industrial Designer
+#### Industrial Designer
 Design beautiful things for elegant user experiences.
 
-Network Deployment Engineer
+#### Network Deployment Engineer
 Deploy and design Google's networks.
 
-Manufacturing Engineer
+#### Manufacturing Engineer
 Create and execute manufacturing processes to support new products throughout their lifecycles.
 
-Technical Solutions Engineer
+#### Technical Solutions Engineer
 Build strong customer relationships and problem-solve technical issues to make businesses more productive, collaborative, and innovative.
 
-Software Engineer, Site Reliability Engineer
+#### Software Engineer, Site Reliability Engineer
 Work at the intersection of software and systems engineering to design, build, and run large-scale systems scalably, reliably, and efficiently.
 
-Application Engineer
+#### Application Engineer
 Develop and design enterprise applications, and use your expertise to integrate third party systems.
