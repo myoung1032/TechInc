@@ -1,0 +1,1 @@
+describe tech companies
